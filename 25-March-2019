@@ -1,0 +1,7 @@
+Excel financial functions
+
+1:
+  ACCRINT(issue, first_interest, settlement, rate, par, frequency, [basis], [calc_method])
+  use date() function to provide arguments for date type peremeters
+2:
+  
