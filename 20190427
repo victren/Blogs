@@ -1,0 +1,7 @@
+The difference in decibels between the two is defined to be:
+
+10 log (P2/P1) dB        where the log is to base 10.
+
+Decibel is a ratio. So, when it is used to give the sound level for a single sound rather than a ratio, 
+a reference level must be chosen. For sound pressure level, the reference level (for air) is usually 
+chosen as 20 micropascals (20 μPa), or 0.02 mPa.
